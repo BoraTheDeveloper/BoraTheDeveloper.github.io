@@ -31,6 +31,12 @@ const songs = [
     artist: 'Johnny Stimson',
     cover: "https://images.genius.com/6bd4335245d5bd64b7e010a7ab08158f.300x300x1.jpg",
   },
+  {
+    path: "https://github.com/BoraTheDeveloper/Music/raw/master/Justin%20Bieber%20-%20I%20Can't%20Be%20Myself%20(Visualizer)%20ft.%20Jaden%20Smith.mp3",
+    displayName: 'I Can\'t Be Myself',
+    artist: 'Justin Bieber ft. Jaden Smith',
+    cover: "https://t2.genius.com/unsafe/220x0/https%3A%2F%2Fimages.genius.com%2F1b4158cead8b9efc973a164d9e86a821.1000x1000x1.jpg",
+  },
 ];
 
 // Check if Playing
